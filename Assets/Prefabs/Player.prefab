@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 8159920892308784904}
   - component: {fileID: 8159920892308784916}
   - component: {fileID: 8159920892308784919}
-  - component: {fileID: 8159920892308784918}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -125,16 +124,3 @@ MonoBehaviour:
   rb: {fileID: 8159920892308784916}
   fowardForce: 3000
   sidewaysForce: 120
---- !u!114 &8159920892308784918
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8159920892308784905}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb423415108116d4b91b9931ab4ef907, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  movement: {fileID: 8159920892308784919}
