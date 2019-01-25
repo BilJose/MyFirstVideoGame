@@ -9,9 +9,15 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Menu.unity
+    guid: feae4b91d329c514f8fd3d848195b17a
+  - enabled: 1
     path: Assets/lvl01.unity
     guid: 293ed65a798a8434d93059e1772228cc
   - enabled: 1
     path: Assets/lvl02.unity
     guid: b74939c81bfa1984b89dccf4195dbe79
+  - enabled: 1
+    path: Assets/CreditScene.unity
+    guid: 2987e089db902954f9d88c57e513bf9a
   m_configObjects: {}
